@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy fight at sea disputed and maintained by the Royall Navy, under the conduct and command of His Highnesse the Prince of VVales, with the exact and true particulars thereof, the number killed, wounded, and thrown over-board. And the further proceedings of the Earl of Warwick concerning the Prince, with a letter to his Highness, from the English sea-men, and their resolution thereupon. Also, exceeding good newes from the Isle of Wight for peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76867</idno>
+            <idno type="STC">Wing B3240</idno>
+            <idno type="STC">Thomason E465_5</idno>
+            <idno type="STC">ESTC R205181</idno>
+            <idno type="EEBO-CITATION">99864613</idno>
+            <idno type="PROQUEST">99864613</idno>
+            <idno type="VID">162267</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162267)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy fight at sea disputed and maintained by the Royall Navy, under the conduct and command of His Highnesse the Prince of VVales, with the exact and true particulars thereof, the number killed, wounded, and thrown over-board. And the further proceedings of the Earl of Warwick concerning the Prince, with a letter to his Highness, from the English sea-men, and their resolution thereupon. Also, exceeding good newes from the Isle of Wight for peace.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Emerson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Contains 2 letters dated: "Amsterdam 26. Sept. 1648" and "Newport 25. Septemb. 1648".</note>
+                  <note>Annotation on Thomason copy: "Sept ye 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, d. 1659.</term>
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162267:1" rendition="simple:additions"/>
+            <p>A BLOUDY FIGHT AT SEA Diſputed and maintained by the Royall Navy, under the Con<g ref="char:EOLhyphen"/>duct and Command of His Highneſſe the Prince of <hi>VVales,</hi> with the exact and true particulars thereof, the number kil<g ref="char:EOLhyphen"/>led, wounded, and thrown over-board. And the further pro<g ref="char:EOLhyphen"/>ceedings of the Earl of <hi>Warwick</hi> concerning the Prince, with a Letter to his Highneſs, from the Engliſh Sea-men, and their reſolution thereupon. Alſo, exceeding good Newes from the Iſle of <hi>Wight</hi> for Peace.</p>
+            <figure>
+               <figDesc>depiction of the sea battle between the Swallow and the Admiral</figDesc>
+               <figure>
+                  <figDesc>depiction of the ship the 'Swallow'</figDesc>
+                  <head>The Swallow.</head>
+               </figure>
+               <figure>
+                  <figDesc>depiction of the ship the 'Admiral'</figDesc>
+                  <head>Admiral.</head>
+               </figure>
+            </figure>
+            <p>Printed for <hi>R. Emerſon,</hi> 1648. <add>Sept y<hi rend="sup">e</hi> 28</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162267:2"/>
+            <pb n="1" facs="tcp:162267:2"/>
+            <head>BLOUDY NEWES From the Princes NAVIE</head>
+            <head type="sub">Declaring The proceedings of the Revolted Marriners, and Sea-Royaliſts, and their bloudy Fight neer <hi>Goree Harbour.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>THe Princes Royall Fleet continues their great inſolent and deboyſtneſs to the Flemmings, and runs aſhore at their owne will and plea<g ref="char:EOLhyphen"/>ſure,
+<pb n="2" facs="tcp:162267:3"/>drinking and diſordering themſelves, and fighting with the <hi>Dutch-men,</hi> inſomuch, that the Boars, and o<g ref="char:EOLhyphen"/>ther of the Inhabitants began to riſe, forced them a<g ref="char:EOLhyphen"/>board their ſhips, and are now reſolved to ſuffer no more to land.</p>
+            <p>Whereupon the Sea Royaliſts began to mutiny a<g ref="char:EOLhyphen"/>mongſt themſelves, and at the laſt fell into ſuch an a<g ref="char:EOLhyphen"/>gony and paſſion, That they encountered each other, fought reſolutely, diſputing their <hi>Decks</hi> with halfe Pikes, Muſquets, Swords, and other Warlike weapons, killing neer vpon twenty, and wounded many, throw<g ref="char:EOLhyphen"/>ing them over ſhip-board into the Sea.</p>
+            <p>In which inſurrection ſome of the Commanders in chief were wounded, who uſed all means poſſible to beget a calm to lay ſo great and bloudy a ſtorm, and after great diligence, and much importunity therein, they prevailed, promiſing a generall Act of Oblivion to all the Abettors, Fomenters, and others, who had a hand in the ſaid Riot or Inſurrection.</p>
+            <p>
+               <hi>The aforeſaid differences being compoſed, a Letter were ſent to the Prince, purporting, the great wants of the Marriners for want of money, and their mutining in the ſhips, which cauſed a great diſtraction amongſt them, de<g ref="char:EOLhyphen"/>ſiring ſome conſiderable ſumme to ſatisfie their Deſires: whereupon it was ordered, that the prizes taken at Sea ſhould be ſold for payment of the Marriners.</hi>
+            </p>
+            <p>A ſudden Engagement is expected between the E. of Warwick, and the Princes Navy, for we hear that the Parliaments Fleet are floting upon the Neptune Seas towards <hi>Goree</hi> in <hi>Zealand,</hi> to ſight the revolted ſhips.</p>
+            <closer>
+               <dateline>Amſterdam <date>26. Sept. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:162267:3"/>
+            <head>A Declaration of the further proceedings of the Treaty, between his Majesty and the Commiſſioners.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>the Commiſſioners of parl. for themſelves and attendants are putto a very large expence of money, which is neceſſarily required for the carrying on this great and publike employment, and therefore do deſire the parliament to ſupply them with the re<g ref="char:EOLhyphen"/>mainder of the 10000. <hi>l.</hi> with convenient ſpeed. As for the begining and ſome dayes progreſſe in the Treaty you may be pleaſed to take notice of the paſſages between his Majeſty, and the parliaments Commiſſioners, meeting in the Treaty Chamber the 18 of this in<g ref="char:EOLhyphen"/>ſtant Septem. in the Forenoon little buſineſſe was diſpatcht, onely the Commiſſion read of the parliaments Commiſſioners, and ſome introduction made into the Propoſitions, after which his Majeſty went to dinner and met the Commiſſioners again in the afternoon and after they were ſet,</p>
+            <p>The Commiſ. proceeded to this effect. <hi>May it pleaſe your Maieſty, Having made known our Commiſſions to treat perſo<g ref="char:EOLhyphen"/>nally with your Maj. upon the propoſitions formerly preſented at</hi> Hampton-Court, <hi>as they concern the Kingdoms of</hi> England <hi>&amp;</hi> Ireland. <hi>And this Treaty to be for</hi> 40 <hi>days, beginning this pre<g ref="char:EOLhyphen"/>ſent, and to proceed in the firſt place upon the propoſitions fol<g ref="char:EOLhyphen"/>lowing in order, viz. For recalling all Oaths, Declarations, &amp;c. And to receive your Maj. Anſwer in writing.</hi>
+            </p>
+            <p>
+               <hi>Then his Mai. deſired nothing to be binding, but what ſhould be agreed upon in writing, which was aſsented to.</hi>
+            </p>
+            <p>
+               <hi>The Commiſſioners then deſired his Maiesty to give his Roy<g ref="char:EOLhyphen"/>all aſsent to this propoſition inſuing, That whereas both Houſes of Parliament have bin neceſſitated to undertake a war in their juſt and lawfull defence, &amp;c. An Act of parliament may paſse, whereby all Oaths, Declarations, &amp;c. againſt both or either hou<g ref="char:EOLhyphen"/>ſes, or againſt any for adhering unto them, &amp;c. to be declared null, and that publikely intimated in all pariſh Churches in all your Maieſties Dominions of</hi> England <hi>and</hi> Ireland.</p>
+            <pb facs="tcp:162267:4"/>
+            <p> Then his Majeſty deſired to have the Propoſitions of the Engliſh and Iriſh intirely together.</p>
+            <p>To which the Commiſſioners anſwered, <hi>That the Propoſi<g ref="char:EOLhyphen"/>tions themſelves were formerly preſented to your Maiesty at Hampton Court we conceive are in your Maiesties hands, ex<g ref="char:EOLhyphen"/>cepting that of the Court of Wards, delivered ſince in the Iſle of</hi> Wight, <hi>&amp;c. what concerns our inſtructions we ſhall doe; but we have no warrant from our Houſes to do that.</hi>
+            </p>
+            <p>
+               <hi>And to the latter part of the ſecond paper delivered in the morning, we ſhall acquaint the Houſes, that no agreement put in writing, be binding till the concluſion of the whole Treaty, unleſse it ſhall be otherwiſe eſpecially agreed.</hi>
+            </p>
+            <p>On Tueſday Septemb. 19. the King and the Commiſſio<g ref="char:EOLhyphen"/>ners met again in the ſame order that they had done the day before, and treated both forenoon and afternoon.</p>
+            <p>None of them do go to the King at all, but in the Treaty Chamber, and altogether publikely, where there are made gallant ſpeeches.</p>
+            <p>And the 19. Sep. his Majeſty brought in a paper to this effect.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <signed>CHARLES R.</signed>
+                        </opener>
+                        <p>In anſwer to your proceedings the 18 Sep. concerning the recalling of all the Oaths, Declarations and Proclamations heretofore had, or to be had, againſt both or either Houſes of Parliament, or againſt any for adhering unto them, or for doing, or executing any Office, place or charge by any au<g ref="char:EOLhyphen"/>thority derived from them: And all Judgments, Indite<g ref="char:EOLhyphen"/>ments. Outlawries and Inquiſitions in any of the ſaid Cau<g ref="char:EOLhyphen"/>ſes, and all Grants thereupon, made or. hnd to be made or had, be declared null, ſuppreſſed and forbidden, and that this be publikely intimated in all Pariſh Churches, and other places needfull within his Majeſties Dominions of <hi>England</hi> and <hi>Ireland.</hi>
+                        </p>
+                        <p>His Majeſty concerning that expreſſion that both Hou<g ref="char:EOLhyphen"/>ſes
+<pb facs="tcp:162267:4"/>of Parliament have been neceſſitated to undertake a war for their juſt defence, which ſeemes to lay the blame of the bloud ſpilt on his Majeſty; therefore his Majeſty deſires that part may be referred to be treated on laſt.</p>
+                        <closer>
+                           <dateline>
+                              <date>Septemb. 19. 1648.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Commiſſioners then put in a paper to this effect. <hi>For our giving the Propoſitions intirely together, we find not our ſelves warranted to preſent our deſires concerning all the Pro<g ref="char:EOLhyphen"/>poſitions at once, or in any ſort to treat them but in Order, but what we have drawn out for our own uſe, wee ſhall give your Maiesty to expedite the Treaty.</hi>
+            </p>
+            <p>
+               <hi>And this draught is ſeparated from what concernes the Kingdom of</hi> Scotland.</p>
+            <p>
+               <hi>And this we do not in way of Treaty, but out of deſire to ſa<g ref="char:EOLhyphen"/>tisſte your Majeſty.</hi>
+            </p>
+            <p>
+               <hi>VVe humbly deſire your Majesties Anſwer to our paper deli<g ref="char:EOLhyphen"/>vered yesterday concerning the Propoſition for recalling all Oaths, &amp;c. and other proceedings thereupon against the</hi> Parlia<g ref="char:EOLhyphen"/>ment, <hi>or thoſe that acted by their Authority.</hi>
+            </p>
+            <p>So that the buſineſs that thus holds in Diſpute is, about the matter of the fault, upon whom the guilt of the bloud ſhed in theſe wars ſhall be laid, and how as to freeing his Majeſty, which his Majeſty would have done, and about this the Commiſſioners have written to the Houſe.</p>
+            <p>There is as yet nothing denyed by the King to be paſſed; though nothing actually granted. But the great rub is not yet removed.</p>
+            <p>His Majeſty is loath to charge himſelfe with the guilt of the bloud ſpilt. The Commiſſioners are very faithfull to their Inſtructions.</p>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:162267:5"/>
+            <head>Postſcript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis morning his Majeſty came ſomewhat early to the Treaty, and ſitting in the Chair of State at the up<g ref="char:EOLhyphen"/>per end of the Table, He roſe up, and made a Speech to the Commiſſioners of both Houſes, intimating, <hi>That it was His Majesties gracious will and pleaſure to paſse an Act, for juſtifying the proceedings of Parliament in the late War, and for declaring all Oaths, Declarations, Proclamations, and other proceedings againſt it to be void, to the end, that no obstruction whatſoever, may hinder or indanger this bleſsed work in hand, that ſo all differences may be compoſed, all jealou<g ref="char:EOLhyphen"/>ſies removed, and the peace of this languiſhing Kingdom firmly ſetled and united.</hi>
+            </p>
+            <p>This gallant ſpeech took great impreſſion in the hearts of the Commiſſioners, who forthwith diſpatched a Meſſenger to the Parliament, to communicate the joyfull tydings from the King.</p>
+            <closer>
+               <dateline>Newport <date>25. Septem. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
